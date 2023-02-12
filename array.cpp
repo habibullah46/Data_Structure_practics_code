@@ -3,16 +3,11 @@ using namespace std;
 int main()
 {
    //Habibullah........
-   int arr[5];
-  for(int i=0; i<5; i++)
-  {
-  	cout<<"enter five element "<<endl;
-  	cin>>arr[i];
-  }
-  cout<<"for output"<<endl;
-  for(int i=0; i<5; i++)
-  {
-  	cout<<arr[i]<<endl;
-  }
+ 
+   int marth_marks[9]={78,89,46,45,65,34,65,76};
+   for(int i =0; i<9; i++)
+   {
+   	cout<<"Roll No"<<i<<":=>"<<marth_marks[i]<<endl;
+   }
 }
 
