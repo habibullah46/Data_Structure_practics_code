@@ -4,7 +4,7 @@ class Student
 {
 	public:
 		string name;
-		int id;
+	     string id;
 		int RollNo;
 		string Department;
 		

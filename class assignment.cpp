@@ -11,7 +11,7 @@ public:
 int main() 
 {
     Student student;
-    student.Student_Name = "Habib ullah ";
+    student.Student_Name = " habib ";
     student.ID = 12345;
     student.Grade = "A";
 
